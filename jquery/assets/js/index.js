@@ -26,6 +26,7 @@ $('#btn-add-evangelist').on('click', function () {
 
 
 /* GET data from the server and draw it to the page
+Microsoft azure and you create a mobile server
 ***************************************************/
 function restGet(){
     $.ajax({
